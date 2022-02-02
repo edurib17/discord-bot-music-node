@@ -1,5 +1,5 @@
 # discord-bot-music-node
-# api-node-upload-image
+
 ### Tecnologias Utilizadas:
 
 - Discord Player [discord-player](https://www.npmjs.com/package/discord-player)
